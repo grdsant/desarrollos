@@ -1,0 +1,94 @@
+Buenos días equipo 
+Les comento que no hay una guía como tal 
+Es un examen de opción múltiple según indica su comunicado.
+Cada perfil maneja herramientas tecnológicas diferentes
+Les hago llegar las herramientas más comunes para todos.
+Para el caso de desarrolladores los 
+Conocimientos Tecnológicos:
+•       Web API
+•       MVC
+•       Angular
+•       ADO .NET
+•       T-SQL
+•       Integration Services
+•       Desarrollo de pruebas unitarios
+•       Manejo de Team Foundation Services (TFS)
+•       Injección de dependencias
+•       Manejo de Arquitectura Orientada a servicios (SOA)
+ 
+Como plus pero no menos importantes
+•       Domain Driven Design (DDD)
+•       Chain of responsibility(COR)
+•       Command Query Responsibility Segregation (CQRS)
+•       Microservicios
+•       Bases de datos No SQL
+•       Integration Services
+•       Conocimiento o implementación de arquitecturas N-Tier
+.    Metodología SCRUM
+.    Manejo de Angular
+.    Conocimiento y manejo de JIRA .
+
+Esperando que esto sea de su utilidad, deseamos el mejor de los éxitos para todos.
+
+Saludos y excelente semana equipo 
+
+
+
+Enviado desde mi iPhone
+
+El 14 oct 2019, a la(s) 10:38, GONZALEZ Erick - Consultor Externo <Erick.GONZALEZ@consulting-for.edenred.com> escribió:
+Nos pueden pasar la guía de estudio por favor.
+ 
+De: Samuel Quezadas <sleumas@compugem.mx> 
+Enviado el: viernes, 11 de octubre de 2019 04:11 p. m.
+Para: MARQUEZ Beatriz - Consultor Externo <Beatriz.MARQUEZ@consulting-for.edenred.com>; LOPEZ Mireya - Consultor Externo <Mireya.LOPEZ@consulting-for.edenred.com>; SALAS Edith - Consultor Externo <Edith.SALAS@consulting-for.edenred.com>; MUNOZ Teresa - Consultor Externo <Teresa.MUNOZ@consulting-for.edenred.com>; PERIANEZ Dydia - Consultor Externo <Dydia.PERIANEZ@consulting-for.edenred.com>; AGUILAR Arturo - Consultor Externo <Arturo.AGUILAR@consulting-for.edenred.com>; TOVAR Amairani - Consultor Externo <Amairani.TOVAR@consulting-for.edenred.com>; CARRILLO Sergio - Consultor Externo <Sergio.CARRILLO@consulting-for.edenred.com>; SANCHEZ Cesar - Consultor Externo <Cesar.SANCHEZ@consulting-for.edenred.com>; HERNANDEZ Luis Adan - Consultor Externo <LuisAdan.HERNANDEZ@consulting-for.edenred.com>; ROSALES Sergio - Consultor Externo <Sergio.ROSALES@consulting-for.edenred.com>; GUTIERREZ Bernanrdo - Consultor Externo <Bernanrdo.GUTIERREZ@consulting-for.edenred.com>; GARNICA Erick - Consultor Externo <Erick.GARNICA@consulting-for.edenred.com>; RODRIGUEZ Josue - Consultor Externo <Josue.RODRIGUEZ@consulting-for.edenred.com>; JAIMES Miguel - Consultor Externo <Miguel.JAIMES@consulting-for.edenred.com>; GUARNEROS Sergio - Consultor Externo <Sergio.GUARNEROS@consulting-for.edenred.com>; GUERRERO Elizabeth - Consultor Externo <Elizabeth.GUERRERO@consulting-for.edenred.com>; ARELLANO Juan - Consultor Externo <Juan.ARELLANO@edenred.com>; CAREAGA Carlos - Consultor Externo <Carlos.CAREAGA@consulting-for.edenred.com>; FLORES Alan - Consultor Externo <Alan.FLORES@consulting-for.edenred.com>; PEREZ Alexandra - Consultor Externo <Alexandra.PEREZ@consulting-for.edenred.com>; CAMARGO Wendy - Consultor Externo <Wendy.CAMARGO@consulting-for.edenred.com>; ROSAS Edibaldo - Consultor Externo <Edibaldo.ROSAS@consulting-for.edenred.com>; DOMINGUEZ Edgar - Consultor Externo <Edgar.DOMINGUEZ@consulting-for.edenred.com>; GONZALEZ Sergio - Consultor Externo <Sergio.GONZALEZ@consulting-for.edenred.com>; THOMAS Hansel - Consultor Externo <Hansel.THOMAS@consulting-for.edenred.com>; RIOJA Cesar - Consultor Externo <Cesar.RIOJA@consulting-for.edenred.com>; VALENTIN Eddy - Consultor Externo <Eddy.VALENTIN@consulting-for.edenred.com>; rosalinda.apolonio@cnsulting-for.edenred.com; CASTRO Javier - Consultor Externo <Javier.CASTRO@consulting-for.edenred.com>; CAMPOS Jose - Consultor Externo <Jose.CAMPOS@consulting-for.edenred.com>; RODRIGUEZ Alfredo - Consultor Externo <Alfredo.RODRIGUEZ@consulting-for.edenred.com>; RINCON Juan Manuel - Consultor Externo <JuanManuel.RINCON@consulting-for.edenred.com>; GONZALEZ Erick - Consultor Externo <Erick.GONZALEZ@consulting-for.edenred.com>; CARRADA Daniel - Consultor Externo <Daniel.CARRADA@consulting-for.edenred.com>; ACOSTA Oscar - Consultor Externo <Oscar.ACOSTA@consulting-for.edenred.com>; JIMENEZ Arturo - Consultor Externo <Arturo.JIMENEZ@consulting-for.edenred.com>; ALAVEZ Ricardo - Consultor Externo <Ricardo.ALAVEZ@consulting-for.edenred.com>; OCAMPO Gabriel - Consultor Externo <Gabriel.OCAMPO@consulting-for.edenred.com>; LOREDO Humberto - Consultor Externo <Humberto.LOREDO@consulting-for.edenred.com>; VELAZQUEZ Jose - Consultor Externo <Jose.VELAZQUEZ@consulting-for.edenred.com>; VIVANCO Austria - Consultor Externo <Austria.VIVANCO@consulting-for.edenred.com>; BEJARANO Yoani - Consultor Externo <Yoani.BEJARANO@consulting-for.edenred.com>; SANTIAGO Alejandro - Consultor Externo <Alejandro.SANTIAGO@consulting-for.edenred.com>; VILLA Ricardo - Consultor Externo <Ricardo.VILLA@consulting-for.edenred.com>; RODRIGUEZ Juan Andres - Consultor Externo <juanandres.rodriguez@consulting-for.edenred.com>; ABARCA Jorge - Consultor externo <jorge.abarca@consulting-for.edenred.com>; ROSALES Armando - Consultor Externo <Armando.ROSALES@consulting-for.edenred.com>; ROCA Miguel - Consultor Externo <Miguel.ROCA@consulting-for.edenred.com>; RUGERIO Victor - Consultor Externo <Victor.RUGERIO@consulting-for.edenred.com>; COSIO Enrique - Consultor Externo <Enrique.COSIO@consulting-for.edenred.com>; PEREZ Yazmin - Consultor Externo <Yazmin.PEREZ@consulting-for.edenred.com>; SILVA Alejandro - Consultor Externo <Alejandro.SILVA@consulting-for.edenred.com>; DURAN Samuel - Consultor Externo <Samuel.DURAN@consulting-for.edenred.com>; SANTOS G Carlos - Consultor Externo <Carlos.SANTOSG@consulting-for.edenred.com>; REZA Carlos - Consultor Externo <Carlos.REZA@consulting-for.edenred.com>; OROS Angel - Consultor Externo <Angel.OROS@consulting-for.edenred.com>; NUÑEZ Luis Angel - Consultor Externo <luisangel.nunez@consulting-for.edenred.com>; LOPEZ Yair - Consultor Externo <Yair.LOPEZ@consulting-for.edenred.com>; GONZALEZ Cesar - Consultor Externo <Cesar.GONZALEZ@consulting-for.edenred.com>; RICO Adrian - Consultor Externo <Adrian.RICO@consulting-for.edenred.com>; janet.lopez@consulting-for.edered.com; TEJEDA Emanuel - Consultor Externo <Emanuel.TEJEDA@edenred.com>; ENRIQUEZ Erick - Consultor Externo <Erick.ENRIQUEZ@edenred.com>; DE LOS SANTOS Gerardo - Consultor Externo <Gerardo.DELOSSANTOS@consulting-for.edenred.com>; ESPINA Arturo - Consultor Externo <Arturo.ESPINA@consulting-for.edenred.com>; DELOSSANTOS Gustavo - Consultor Externo <Gustavo.DELOSSANTOS@consulting-for.edenred.com>; MURILLO Selene - Consultor Externo <Selene.MURILLO@consulting-for.edenred.com>; LOPEZ Rogelio - Consultor Externo <Rogelio.LOPEZ@consulting-for.edenred.com>; Ury.salem@hotmail.com
+CC: Rene Palma <rene@compugem.mx>
+Asunto: Circular Importante.
+ 
+Buenas tardes equipo COMPUGEM
+ 
+Hacemos extensiva la información remitida por la Dirección de TI. de EDENRED.(ver abajo correo remitido)
+Lo anterior con el fin de mantenerlos informados y dar seguimiento a las evaluaciones solicitadas.
+Agradeceremos tomar nota de los puntos abajo señalados y presentarse a su evaluación de manera puntual. 
+Estaremos informando las fechas para cada uno de ustedes según nos sean comunicadas.
+Queremos invitarlos a tomar con mucha seriedad y compromiso esta evaluación a fin de que puedan salir muy bien evaluados y clasificados dentro del nivel que les corresponde.
+Como siempre quedamos atentos a toda duda , aclaración o comentario. 
+ 
+Deseamos mucho éxito para todos ustedes y para nosotros como consultora.
+ 
+Saludos  cordiales
+Samuel Quezadas H
+COMPUGEM S.A DE C.V.
+ 
+ 
+Anexo correo :
+_______________________________________________________________
+Edenred México
+ 
+ 
+Ciudad de México a 09 de octubre de 2019
+ 
+A los Proveedores de Staffing.
+ 
+Por medio de la presente, nos dirigimos a ustedes con la finalidad de comunicarles que, en el periodo del 14 al 25 de octubre de 2019, se estarán aplicando evaluaciones a los recursos que se encuentran bajo su gestión y que colaboran con nosotros. Estas evaluaciones pretenden conocer el dominio y conocimiento de sus recursos en las diferentes tecnologías, herramientas y plataformas según su perfil de trabajo y visión de la compañía.
+Derivado de lo anterior, les solicitamos de la manera más atenta informen que dicha evaluación es de carácter obligatorio, y tiene los siguientes objetivos: conocer el skill técnico de nuestra empresa, integración de equipos a la tecnología, aprovechar de mejor manera los conocimientos, alinear a las personas en nuevas soluciones y preparar capacitaciones.
+ 
+Adjunto a este documento encontrarán el listado de los participantes y la evaluación que se aplicará por día.
+ 
+Es importante tomar en cuenta los siguientes puntos:
+•         La evaluación se aplicará en instalaciones de Lago Victoria #74, piso 5, Colonia Granada.
+•         Llevar consigo su gafete Edenred.
+•         No llevar equipo celular, en caso de llevarlo, les será retirado al ingresar a las instalaciones.
+•         La evaluación tiene una duración aproximada de 2 hrs.
+•         Llegar 15 min antes de la hora de aplicación de la evaluación.
+•         La evaluación es de opción múltiple (leer el encabezado de los exámenes).
+ 
+Mucho éxito a todos.
+ 
+ 
+Atte.
+ 
+Dirección de IT
+ 
+ 
+
